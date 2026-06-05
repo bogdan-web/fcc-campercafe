@@ -1,3 +1,3 @@
 # CSS-projects
 Some projects while i learned CSS
-Also, i learned to code CSS all alone, with freecodecamp
+Learned CSS also with freecodecamp(not all yet)
